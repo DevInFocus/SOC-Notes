@@ -9,7 +9,7 @@ Documenting my transition from a non-technical background into cybersecurity thr
 
 ## Goals
 - Build practical SOC analyst skills
-- -Improve Linux and SIEM knowledge
+- Improve Linux and SIEM knowledge
 - Practice real-world security investigations
 - Document my cybersecurity learning journey
 
