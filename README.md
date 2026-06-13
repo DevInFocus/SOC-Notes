@@ -14,7 +14,7 @@ Started learning cybersecurity in March 2026. This repository documents my trans
 - Credential Dumping
 - Lateral Movement
 
-  # Current Focus:
+ # Current Focus:
   - Splunk
   - Incident Response
   - Threat Hunting
