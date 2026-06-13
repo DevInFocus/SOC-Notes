@@ -1,23 +1,23 @@
 # My Cybersecurity Learning Journey
-Documenting my transition from a non-technical background into cybersecurity through hands-on practice and continuous learning.
-## Current Focus Areas
-- Linux
-- Networking
-- Threat Detection
-- SOC Labs
-- Log Analysis
+Started learning cybersecurity in March 2026. This repository documents my transition from a non-technical background through hands-on labs, practical investigations, and continuous learning in Linux, networking, threat detection, log analysis, and SOC operations.
 
-## Goals
-- Build practical SOC analyst skills
-- Improve Linux and SIEM knowledge
-- Practice real-world security investigations
-- Document my cybersecurity learning journey
+# Topics Covered: 
 
-## Progress
- This repository will contain:
- - Linux practice notes
- - Security investigations
- - SOC lab writeups
- - Splunk queries
- - Networking concepts
- - Screenshots and documentation
+- Linux Fundamentals
+- Linux Log analysis
+- Windows Event Logs
+- VPN Analysis
+- Firewall Analysis
+- EDR Fundamentals
+- Persistence
+- Malware Behavior
+- Credential Dumping
+- Lateral Movement
+
+  # Current Focus:
+  - Splunk
+  - Incident Response
+  - Threat Hunting
+  - Networking
+  - Log Analysis
+  - SOC lab writeups
