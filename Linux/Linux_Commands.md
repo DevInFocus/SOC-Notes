@@ -81,6 +81,13 @@ Shows real-time process activity.
 SOC Use:
 Monitor system activity.
 
+### Kill
+Terminate a running process. Stop a process using its Process ID (PID) 
+Kill PID
+
+SOC Use:
+Used to stop suspicious, malicious, or unncessary processes during an investigation.
+
 ---
 
 ## Network Commands
