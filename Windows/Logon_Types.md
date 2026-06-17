@@ -122,6 +122,8 @@ SOC insight:
 - High attacker interest
 - Brute force + credential stuffing target
 
+---
+
 ### Type 11 - CachedInteractive
 Offline login using cached credentials
 
