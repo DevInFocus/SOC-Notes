@@ -44,6 +44,8 @@ SOC insight:
 - Common in lateral movement attacks
 - Important for tracking credential resuse
 
+---
+
 ### Type 4 - Batch Logon
 Automated job execution
 
