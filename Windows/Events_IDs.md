@@ -67,33 +67,3 @@ May indicate privilege escalation or unauthorized access.
 ## Key Learning
 Event IDs help SOC analysts track logins, process execution, privilege escalation, and suspicious activity.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
