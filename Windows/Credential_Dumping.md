@@ -45,3 +45,29 @@ Process:
 ```text
 lsass.exe
 
+---
+
+## What attackers target in LSASS?
+
+Attackers target LSASS because it  may contain:
+
+- Plaintext passwords
+- NTLM password hashes
+- Kerberos tickets
+- Authentication tokens
+
+SOC Note:
+Unauthorized access to LSASS is highly suspicous and may indicate credential dumping activity.
+
+---
+
+## SAM Database
+
+
+
+
+
+
+
+
+
