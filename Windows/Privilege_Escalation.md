@@ -1,4 +1,4 @@
-# Privilege Escalation (SOC Analyst Notes)
+# Privilege Escalation
 
 ## Overview
 
