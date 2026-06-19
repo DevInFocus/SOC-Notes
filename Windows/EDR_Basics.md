@@ -290,27 +290,55 @@ Questions:
 
 ## Response Actions
 
+Common analyst actions:
 
+- Isolate endpoint
+- Terminate malicious process
+- Block file hash
+- Block IP address
+- Esclate incident
+- Collect forensic evidence
 
+---
 
+## Red Flags
 
+- PowerShell with encoded commands
+- Access to lsass.exe
+- Unknown executable execution
+- Suspicious administrator activity
+- External connections to unknown IPs
 
+---
 
+## Common EDR Platforms
 
+- Microsoft Defender for Endpoint
+- CrowdStrike Falcon
+- SentinelOne
+- VMware Carbon Black
 
+SOC Note:
 
+Although interfaces differ, investigation concepts remain similar across EDR products.
 
+---
 
+## Quick Summary
 
+| Term | Meaning |
+|------|---------|
+| EDR | Endpoint Detection and Response|
+| Endpoint | Device being monitored|
+| Process Tree | Parent-child process relationship|
+| Hash| Unique file identifier|
+| Isolation | Disconnect host from network |
+| Alert | Suspicious activity detected |
 
+---
 
+## Difference between Antivirus and EDR?
 
-
-
-
-
-
-
-
+Antivirus primarily detects known malware using signatures. EDR continiously monitors endpoint activity, records events, detects suspicious behavior, and provides investigation and response capabilities for security analysts. 
 
 
