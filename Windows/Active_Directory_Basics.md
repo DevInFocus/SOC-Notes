@@ -247,21 +247,66 @@ Monitor for:
 - Authentication anomalies
 - Domain Controller access
 
+---
 
+## Important Event IDs
 
+| Event ID | Description |
+|----------|-------------|
+| 4624 | Succcessful Logon |
+| 4625 | Failed Logon |
+| 4672 | Special Privileged Assigned |
+| 4720 | User Account Created |
+| 4728 | User Added to Security Group |
+| 4732 | User Added to Local Group |
 
+---
 
+## Investigation Questions
 
+When investigating Active Directory activity:
 
+- Which account performed the action?
+- Was a privileged account involved?
+- Were group memberships modified?
+- Was lateral movement observed?
+- Was a Domain Controller accessed?
 
+---
 
+## Attack Scenario 
 
+```text
+Attacker Compromise User
+           ↓
+ Credential Dumping
+            ↓
+ Privilege Escalation
+            ↓
+ Domain Admin Access
+            ↓
+ Full Domain Control
+```
 
+---
 
+## Quick Summary
 
+| Term | Meaning |
+|------|---------|
+| Active Directory | Centralized identity management system |
+| Domain | Collection of users and computers |
+| Domain Controller | Server managing Active Directory |
+| User Object | Represents a user account |
+| Computer Object | Represents a system |
+| Group | Collection of users with shared permissions |
+| OU | Organizational Unit |
+| GPO | Group Policy Object |
 
+---
 
+## What is Active Directory?
 
-
-
+Active Directory is a centeralized directory service that manages 
+users, computers, groups, authentication, and security policies within a Windows domain environment. 
 
